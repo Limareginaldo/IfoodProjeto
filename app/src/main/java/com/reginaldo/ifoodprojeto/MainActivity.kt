@@ -16,11 +16,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
         with (binding){
-            editEmail.text.toString()
+           textEmail.text.toString()
             textSenha.text.toString()
             btnEnviar.setOnClickListener {
 
-                val email = editEmail.text.toString()
+                val email = textEmail.text.toString()
                 val senha = textSenha.text.toString()
                 if (email.isEmpty()|| senha.isEmpty()){
                     Toast.makeText(this@MainActivity," campos não podem ser vazio", Toast.LENGTH_SHORT).show()

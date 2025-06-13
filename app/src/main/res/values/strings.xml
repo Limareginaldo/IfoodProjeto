@@ -1,6 +1,17 @@
 <resources>
     <string name="app_name">Ifood</string>
-    <string name="restaurante"> Restaurantes</string>
-    <string name="marketplace"> Mercados</string>
-    <string name="drinks"> Bebidas</string>
+    <string name="e_mail">Digite seu e-mail</string>
+    <string name="password">Digite sua senha</string>
+    <string name="falta_pouco">"Falta pouco para matar "</string>
+    <string name="sua_fome">sua fome</string>
+    <string name="enviar">Enviar</string>
+    <string name="cadastre_se">Não tem conta? Catastre-se!</string>
+
+    <!--   <string name="restaurante"> Restaurantes</string>
+       <string name="e_mail">  e-mail</string>
+       <string name="digite_senha"> Digite sua  senha</string>
+       <string name="marketplace"> Mercados</string>
+       <string name="drinks"> Bebidas</string>-->
+
+
 </resources>
