@@ -6,6 +6,19 @@
     <string name="sua_fome">sua fome</string>
     <string name="enviar">Enviar</string>
     <string name="cadastre_se">Não tem conta? Catastre-se!</string>
+    <string name="bebidas">ic_bebedas</string>
+    <string name="shoping">ic_shopping</string>
+    <string name="gourmer">ic_gourmer</string>
+    <string name="toperest">ic_toprest</string>
+    <string name="mcdonald">ic_mcdonald</string>
+    <string name="outback">ic_outback</string>
+    <string name="coracao">ic_coracao</string>
+    <string name="hamburg">ic_humburg</string>
+    <string name="pet">ic_pet\n</string>
+    <string name="farmacia">ic_farmacia</string>
+    <string name="express">ic_express</string>
+    <string name="ic_lojas">Lojas</string>
+    <string name="heart">ic_hert</string>
 
     <!--   <string name="restaurante"> Restaurantes</string>
        <string name="e_mail">  e-mail</string>

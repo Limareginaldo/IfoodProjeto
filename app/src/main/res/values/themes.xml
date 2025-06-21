@@ -5,6 +5,7 @@
         <item name="colorPrimary">@color/red</item>
         <item name="colorPrimaryVariant">@color/it_gray</item>
         <item name="colorOnPrimary">@color/gray</item>
+        <item name="android:colorBackground">@color/branco</item>
        <!-- <item name="colorSegundary">@color/teal_200</item>
         <item name="colorSegundaryVariant">@color/teal_700</item>-->
         <item name="colorOnSecondary"> @color/gray</item>
